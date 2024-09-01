@@ -1,4 +1,4 @@
-# Definición de constantes
+# Definición de constantes 
 FILAS = 6
 COLUMNAS = 7
 
