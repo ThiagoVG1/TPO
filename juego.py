@@ -16,7 +16,7 @@ def hacer_movimiento(tablero, fila, columna, ficha):
    #Coloca la ficha del jugador en el tablero.
     tablero[fila][columna] = ficha
 
-def comprobar_victoria(tablero, ficha):
+def comprobar_victoria(tablero, ficha): 
     # Comprobar victoria horizontal (--)
     for fila in range(FILAS):
         for col in range(COLUMNAS - 3):
