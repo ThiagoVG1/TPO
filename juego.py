@@ -113,7 +113,7 @@ def main():
             imprimir_tablero(tablero)
             print("¡Es un empate!")
             juego_terminado = True
-
 # Ejecuta el juego
 if __name__ == "__main__":
     main()
+
